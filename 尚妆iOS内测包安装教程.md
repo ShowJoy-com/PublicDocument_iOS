@@ -12,14 +12,18 @@
 
 
 
+特别注意：以后安装尚妆令牌和SJKISS都可以通过这种方式安装
+
+
+
 ### 一、扫码安装（前提是在我这里有添加过测试设备）
 
 |  项目名称  |        下载地址        |
 | :----: | :----------------: |
 |  达人店   | http://fir.im/wql6 |
-|   尚妆   | http://fir.im/wpkx |
+|   尚妆   | http://fir.im/tezj |
 |  购给利   | http://fir.im/389h |
-|  尚妆令牌  | http://fir.im/v5c4 |
+|  尚妆令牌  | http://fir.im/ute6 |
 | SJKISS | http://fir.im/76yw |
 
 
