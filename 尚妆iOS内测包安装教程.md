@@ -32,7 +32,30 @@ https://mail.showjoy.com/   点击链接进入公司邮箱并登陆
 
 2、找到来自TestFlight的邮件并打开（以尚妆令牌为例）
 
+![logo](https://github.com/ShowJoy-com/PublicDocument_iOS/blob/master/Images/mailList.png?raw=true)
 
 
 
 
+
+![logo](https://github.com/ShowJoy-com/PublicDocument_iOS/blob/master/Images/mailDetail.png?raw=true)
+
+3、下载TestFlight并且下载测试包
+
+![logo](https://github.com/ShowJoy-com/PublicDocument_iOS/blob/master/Images/StartTest.png?raw=true)
+
+#### （1）去APPStore下载TestFlight这款软件
+
+#### （2）打开软件点击Redeem按钮
+
+#### （3）复制邀请码开始测试
+
+流程示意图如下
+
+![logo](https://github.com/ShowJoy-com/PublicDocument_iOS/blob/master/Images/1.PNG?raw=true)
+
+![logo](https://github.com/ShowJoy-com/PublicDocument_iOS/blob/master/Images/2.PNG?raw=true)
+
+![logo](https://github.com/ShowJoy-com/PublicDocument_iOS/blob/master/Images/3.PNG?raw=true)
+
+![logo](https://github.com/ShowJoy-com/PublicDocument_iOS/blob/master/Images/4.PNG?raw=true)
