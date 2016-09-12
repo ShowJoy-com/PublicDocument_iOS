@@ -23,7 +23,7 @@
 |  达人店   | http://fir.im/ute6 |
 |   尚妆   | http://fir.im/tezj |
 |  购给利   | http://fir.im/389h |
-|  尚妆令牌  | http://fir.im/ute6 |
+|  尚妆令牌  | http://fir.im/urjy |
 | SJKISS | http://fir.im/76yw |
 
 
