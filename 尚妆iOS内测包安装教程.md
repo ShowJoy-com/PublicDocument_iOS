@@ -20,7 +20,7 @@
 
 |  项目名称  |        下载地址        |
 | :----: | :----------------: |
-|  达人店   | http://fir.im/ute6 |
+|  达人店   | http://fir.im/6w5h |
 |   尚妆   | http://fir.im/tezj |
 |  购给利   | http://fir.im/389h |
 |  尚妆令牌  | http://fir.im/urjy |
